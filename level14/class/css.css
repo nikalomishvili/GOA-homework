@@ -1,0 +1,16 @@
+   .er {
+    text-align: center;
+    font-weight: bold;
+    font-size: 45px;
+    background-color:chartreuse ;
+}
+body{
+    background-color: green
+}
+.re{
+    background-color: darkolivegreen;
+    font-size: 30px;
+}
+footer{
+    background-color: mediumspringgreen;
+}

@@ -1,0 +1,39 @@
+body{
+    background-color:rgb(75, 43, 179);
+}
+.g{
+    text-align: left;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+
+}
+.gg{
+    text-align: left;
+    font-size: 29px;
+    font-style: italic;
+    font-weight: bold;
+
+}
+.f{
+    text-align: left;
+    font-size: 28px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.ff{
+    text-align: left;
+    font-size: 27px;
+    font-style: italic;
+    font-weight: bold;
+}
+.d{
+ font-size: 25px;  
+}
+      .ggg{
+
+        font-style: italic;
+        font-size: 25px;
+        font-weight: bold;
+      }
