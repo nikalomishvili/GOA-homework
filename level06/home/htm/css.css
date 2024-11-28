@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(115, 21, 21);
+    color: aliceblue;
+   text-align: center;
+    font-size: 28px;
+}
+.taxt{
+    color: aliceblue;
+}
+.t{
+    font-size: 23px;
+}
+
+.button{
+    background-color: rgb(115, 21, 21);
+    
+}
