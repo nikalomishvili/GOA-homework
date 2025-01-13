@@ -1,0 +1,5 @@
+name = input("enter name")
+def helo():
+    print("გამარჯობა"+name+"კეთილი იყოს                                               
+    
+helo()

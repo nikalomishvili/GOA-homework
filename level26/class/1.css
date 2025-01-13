@@ -1,0 +1,26 @@
+.a{
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-shadow: 5px 10px 3px rgb(red, green, blue);
+    letter-spacing: 20px;
+    text-align: center;
+    font-family: Courier;
+}
+
+.b{
+    text-transform:lowercase;
+    text-decoration:none;
+    text-shadow: 10px 5px 10px rgb(red, green, blue);
+    letter-spacing: 10px;
+    text-align: left;
+    font-family:inherit
+}
+
+.c{
+    text-transform:none;
+    text-decoration:double;
+    text-shadow: 15px 12px 6px rgb(red, green, blue);
+    letter-spacing: 15px;
+    text-align: right;
+    font-family:monospace
+}

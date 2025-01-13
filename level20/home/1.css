@@ -1,0 +1,19 @@
+.centar{
+    text-align: center;
+color: aliceblue;
+}
+body{
+    background-image: url(https://yt3.googleusercontent.com/yaO29uydEx0PfxuToT7uh_fP1cZGw-mcNrNZcCKTjDBTNvzn_5_gclYVAhBn5XFa-JgMKm6WwUY=s900-c-k-c0x00ffffff-no-rj);
+    background-repeat: no-repeat;
+    background-position: center;
+   background-attachment: fixed;
+   background-size: cover;
+}
+button{
+    
+    font-size: 20px;
+}
+.cantar{
+    text-align: left;
+    color: aliceblue;
+}
